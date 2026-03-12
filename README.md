@@ -4,19 +4,19 @@
 
 API simples desenvolvida com FastAPI para estudo de desenvolvimento backend com Python.
 
-Tecnologias
+Tecnologias:
 	•	Python
 	•	FastAPI
 	•	Pydantic
 	•	Uvicorn
 
-Funcionalidades
+Funcionalidades:
 	•	API REST básica
 	•	Estrutura inicial para aplicações FastAPI
 	•	Documentação automática com Swagger
 
 
-## Arquitetura
+## Arquitetura:
 
 
 Client
@@ -51,7 +51,7 @@ ReDoc:
 http://127.0.0.1:8000/redoc
 
 
-## Objetivo 
+## Objetivo:
 
 
 Este projeto foi criado para estudo da framework FastAPI e desenvolvimento de APIs REST em Python.

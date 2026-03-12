@@ -16,6 +16,21 @@ Funcionalidades
 	•	Documentação automática com Swagger
 
 
+## Arquitetura
+
+
+Client
+   │
+   ▼
+FastAPI Routes
+   │
+   ▼
+Pydantic Schemas
+   │
+   ▼
+Response
+
+
 ## Rodando o projeto
 
 

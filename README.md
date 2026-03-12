@@ -1,5 +1,3 @@
-:::writing{variant=“standard” id=“arch1”}
-
 
 # FastAPI Basic API
 
@@ -42,4 +40,3 @@ http://127.0.0.1:8000/redoc
 
 
 Este projeto foi criado para estudo da framework FastAPI e desenvolvimento de APIs REST em Python.
-:::

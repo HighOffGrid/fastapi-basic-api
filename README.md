@@ -16,7 +16,7 @@ Funcionalidades:
 	•	Documentação automática com Swagger
 
 
-## Arquitetura:
+## Arquitetura
 
 
 Client
@@ -51,7 +51,7 @@ ReDoc:
 http://127.0.0.1:8000/redoc
 
 
-## Objetivo:
+## Objetivo
 
 
 Este projeto foi criado para estudo da framework FastAPI e desenvolvimento de APIs REST em Python.

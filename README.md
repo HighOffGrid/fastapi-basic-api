@@ -4,7 +4,6 @@ Projeto simples usando FastAPI para estudo.
 
 ## Rodar projeto
 
-```bash
 pip install -r requirements.txt
 uvicorn main:app --reload
 
@@ -13,3 +12,4 @@ uvicorn main:app --reload
 Após rodar o projeto:
 
 http://127.0.0.1:8000/docs
+http://127.0.0.1:8000/redocs

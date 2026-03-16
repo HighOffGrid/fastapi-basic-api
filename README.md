@@ -35,6 +35,13 @@ Response
 
 ---
 
+## Objetivo
+
+
+Este projeto foi criado para estudo da framework FastAPI e desenvolvimento de APIs REST em Python.
+
+---
+
 ## Rodando o projeto
 
 ```bash
@@ -51,7 +58,3 @@ uvicorn app.main:app --reload
 Swagger UI: http://127.0.0.1:8000/docs
 
 ReDoc: http://127.0.0.1:8000/redoc
-## Objetivo
-
-
-Este projeto foi criado para estudo da framework FastAPI e desenvolvimento de APIs REST em Python.

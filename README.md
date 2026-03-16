@@ -45,10 +45,11 @@ Este projeto foi criado para estudo da framework FastAPI e desenvolvimento de AP
 ## Rodando o projeto
 
 ```bash
+git clone https://github.com/HighOffGrid/fastapi-basic-api
 Instale as dependências:
 
 pip install -r requirements.txt
-
+cd FastAPI iniciante
 ---
 
 ## Executando a API
